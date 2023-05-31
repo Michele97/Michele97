@@ -2,4 +2,4 @@
 
      
      
-     My name is Michele Pinto and I'm a Neo Jr Web Developer.
+     My name is Michele Pinto and I'm a Junior Web Developer.
